@@ -16,8 +16,8 @@ I'm an AI engineer and mathematician with a passion for optimizing autonomous sy
 
 ## 🔬 Research Background
 - Published research in [**AI Planning** at ICAPS](https://ojs.aaai.org/index.php/ICAPS/article/view/15971)
-- Contributed to [**Network Science** research published in Nature Scientific Data](https://www.nature.com/articles/sdata201837)
-- Contributed to [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
+- Worked on [**Network Science** research published in Nature Scientific Data](https://www.nature.com/articles/sdata201837)
+- Led the development of a project in [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
 
 
 ## Industry Experience (2018-2024)
