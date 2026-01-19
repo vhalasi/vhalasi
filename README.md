@@ -7,8 +7,7 @@ I'm an AI engineer and mathematician with a passion for optimizing autonomous sy
 ### AI Engineering
 - Developing and deploying AI agents to production
 - Fine-tuning text-to-image models
-- Building complex AI-powered software at scale
-- Designing agentic products powered by LLMs
+- Designing agentic software products powered by LLMs
 
 ### Development & Data Engineering
 - Languages: Python, TypeScript, JavaScript
