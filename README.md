@@ -2,7 +2,7 @@
 
 I'm an AI engineer and mathematician with a passion for optimizing autonomous systems and applying AI at scale.
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 ### AI Engineering
 - Developing and deploying AI agents to production
@@ -21,10 +21,10 @@ I'm an AI engineer and mathematician with a passion for optimizing autonomous sy
 - Contributed to [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
 
 
-## 💼 Industry Experience (2018-2024)
+## Industry Experience (2018-2024)
 Developed proprietary software in Switzerland at Baloise, Pfister, the Medical Image Analysis Center, and the Bank for International Settlements, focusing on AI-powered solutions and data engineering.
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 ### [CrewShip](https://crewship.dev)
 The best deployment platform for AI agents: go from agent prototype to production in minutes.
@@ -32,7 +32,7 @@ The best deployment platform for AI agents: go from agent prototype to productio
 ### [Storique](https://storique.ai)
 Platform for advanced storytelling powered by an agent system of custom-finetuned AI image and text generation.
 
-## 📫 Get in Touch
+## Get in Touch
 - **Website:** [valentinahalasi.com](https://valentinahalasi.com/)
 - **LinkedIn:** [linkedin.com/in/valentinahalasi](https://linkedin.com/in/valentinahalasi)
 - **𝕏:** [@valahalasi](https://x.com/valentinahalasi)
