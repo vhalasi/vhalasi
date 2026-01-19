@@ -30,7 +30,7 @@ Developed proprietary software in Switzerland at Baloise, Pfister, the Medical I
 The best deployment platform for AI agents: go from agent prototype to production in minutes.
 
 ### [Storique](https://storique.ai)
-Platform for advanced storytelling powered by AI image and text generation.
+Platform for advanced storytelling powered by an agent system of custom-finetuned AI image and text generation.
 
 ## 📫 Get in Touch
 - **Website:** [valentinahalasi.com](https://valentinahalasi.com/)
