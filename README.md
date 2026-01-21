@@ -2,6 +2,8 @@
 
 I'm an AI engineer and mathematician with a passion for optimizing autonomous systems and computer vision applications.
 
+I frequently share my experience as speaker at international technology conferences, and also co-organizes events for the Women in Machine Learning & Data Science Zürich community.
+
 ## Areas of Expertise
 
 ### AI Engineering
