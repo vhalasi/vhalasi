@@ -23,7 +23,7 @@ I frequently share my experience as speaker at international technology conferen
 
 
 ## Industry Experience (2018-2024)
-Developed proprietary software in Switzerland for Baloise, Pfister, the Medical Image Analysis Center, and the Bank for International Settlements, focusing on AI-powered solutions and data engineering.
+Developed proprietary software in Switzerland for Helvetia Baloise, Pfister, the University of Basel, the Bank for International Settlements and in Hungary for IBM Budapest Lab focusing on AI-powered solutions and data engineering.
 
 ## What I'm Currently Working On
 
