@@ -10,10 +10,10 @@ I frequently share my experience as speaker at international technology conferen
 
 - Fine-tuning text-to-image models and creating advanced image generation pipelines
 - Designing agentic software products powered by LLMs
-- Developing and deploying AI agents to production
+- Developing and deploying AI agents to production 
 
 ### Data Engineering and Development 
-- Quantitative development for actuarial applications
+- Quantitative development for actuarial and trading applications
 - Data science and data engineering in finance, insurance, and retail domains
 
 ## 🔬 Research Background
@@ -23,7 +23,7 @@ I frequently share my experience as speaker at international technology conferen
 
 
 ## Industry Experience (2018-2024)
-Developed proprietary software in Switzerland for Helvetia Baloise, Pfister, the University of Basel, the Bank for International Settlements and in Hungary for IBM Budapest Lab focusing on AI-powered solutions and data engineering.
+Developed proprietary software for Helvetia Baloise, Pfister, the University of Basel, the Bank for International Settlements in Switzerland & for IBM Budapest Lab focusing on AI-powered solutions, automation and data engineering. Partnered with C-level leaders to translate data into strategic, data-driven decisions.
 
 ## What I'm Currently Working On
 
@@ -36,4 +36,4 @@ Advanced storytelling platform powered by an agentic system of custom-finetuned 
 ## Get in Touch
 - **Website:** [valentinahalasi.com](https://valentinahalasi.com/)
 - **LinkedIn:** [linkedin.com/in/valentinahalasi](https://linkedin.com/in/valentinahalasi)
-- **𝕏:** [@valahalasi](https://x.com/valentinahalasi)
+- **𝕏:** [@valentinahalasi](https://x.com/valentinahalasi)
