@@ -27,6 +27,8 @@ Developed proprietary software for Helvetia Baloise, Pfister, the University of 
 
 ## What I'm Currently Working On
 
+Complementing my core projects, I design, implement and deploy AI agent systems that enhance operations for businesses outside of tech.
+
 ### [CrewShip](https://crewship.dev)
 The best deployment platform for AI agents: go from agent prototype to production in minutes.
 
