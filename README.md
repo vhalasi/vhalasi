@@ -1,6 +1,6 @@
 # Hi, I'm Valentina
 
-I'm an AI engineer and mathematician with a passion for optimizing autonomous systems and computer vision applications.
+I’m an AI engineer and mathematician passionate about building and optimizing autonomous systems and agentic applications.
 
 I frequently share my experience as speaker at international technology conferences, and also co-organize events for the Women in Machine Learning & Data Science Zürich community.
 
@@ -8,13 +8,15 @@ I frequently share my experience as speaker at international technology conferen
 
 ### AI Engineering
 
-- Fine-tuning text-to-image models and creating advanced image generation pipelines
-- Designing agentic software products powered by LLMs
-- Developing and deploying AI agents to production 
+- Post-training diffusion models and engineering advanced image-generation pipelines integrating computer vision algorithms
+- Designing LLM-powered agentic applications
+- Developing, evaluating, and continuously improving AI agents for production environments
 
 ### Data Engineering and Development 
 - Quantitative development for actuarial and trading applications
-- Data science and data engineering in finance, insurance, and retail domains
+- Predictive modelling for a portfolio of several hundred million CHF at one of the largest insurance & bank of Switzerland: detected and corrected model drift under hourly deadlines.
+- Reimplemented the team’s modelling codebase; evangelised AI-assisted coding and version control in the department. Hired and managed junior data and computer scientists.
+- Building predictive ML models to optimize resource allocation
 
 ## 🔬 Research Background
 - Published research in [**AI Planning** at ICAPS](https://ojs.aaai.org/index.php/ICAPS/article/view/15971)
