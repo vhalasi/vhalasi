@@ -21,7 +21,7 @@ I frequently share my experience as speaker at international technology conferen
 ## 🔬 Research Background
 - Published research in [**AI Planning** at ICAPS](https://ojs.aaai.org/index.php/ICAPS/article/view/15971)
 - Worked on [**Network Science** research published in Nature Scientific Data](https://www.nature.com/articles/sdata201837)
-- Led the development of a project in [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
+- Developed of a python toolbox for a research project in [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
 
 
 ## Industry Experience (2018-2024)
