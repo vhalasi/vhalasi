@@ -24,7 +24,7 @@ I frequently share my experience as speaker at international technology conferen
 - Developed of a python toolbox for a research project in [**Brain Connectivity Analysis** research](https://valentinahalasi.com/brain-connectivity-workshop-reykjavik-poster.pdf)
 
 
-## Industry Experience (2018-2024)
+## Industry Experience 
 Developed proprietary software for Helvetia Baloise, Pfister, the University of Basel, the Bank for International Settlements in Switzerland & for IBM Budapest Lab focusing on AI-powered solutions, automation and data engineering. Partnered with C-level leaders to translate data into strategic, data-driven decisions.
 
 ## What I'm Currently Working On
